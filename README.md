@@ -1,2 +1,2 @@
-# medium
-Code for medium
+# Blogs
+Code for blogs
